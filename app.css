@@ -61,6 +61,10 @@ li.pane {
   box-shadow: 2px 2px #e8e8e8;  
 }
 
+li.pane .text-caption {
+  text-align: left;
+}
+
 .entry-meta {
   color: hsl(341, 10%, 20%);
   font-weight: bold;
